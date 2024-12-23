@@ -3,7 +3,7 @@ name: Create Releasable Package Drop
 on:
   push:
     branches:
-      - release-*
+      - main-*
 
 permissions:
   contents: read
